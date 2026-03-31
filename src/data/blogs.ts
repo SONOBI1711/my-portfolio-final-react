@@ -1,0 +1,43 @@
+export const blogs = [
+    {
+      id: 1,
+      
+      title: "Best place to travel in Spring",
+      category: "TRAVEL",
+      image: "https://images.unsplash.com/photo-1507525428034-b723cf961d3e",
+      content: "Lorem ipsum dolor sit amet consectetur. Non egestas a quisque odio in. Sed sit lacus in nisi proin eu ut. Quis nunc eget aliquam eros at. Nisl convallis ultricies morbi auctor at etiam. Tellus in at egestas aliquet cras diam. Elementum vivamus cras duis condimentum arcu convallis netus eu commodo. Non pellentesque feugiat id.",
+      date: "Feb 12, 2024",
+    author: "J. Anderson",
+    avatar: "https://i.pravatar.cc/40",
+    },
+    {
+      id: 2,
+      title: "DIY handmade post cards",
+      category: "DIY",
+      image: "https://images.unsplash.com/photo-1519681393784-d120267933ba",
+      content: "Lorem ipsum dolor sit amet consectetur. Non egestas a quisque odio in. Sed sit lacus in nisi proin eu ut. Quis nunc eget aliquam eros at. Nisl convallis ultricies morbi auctor at etiam.",
+      date: "Feb 12, 2024",
+    author: "J. Anderson",
+    avatar: "https://i.pravatar.cc/40",
+    },
+    {
+        id: 3,
+        title: "The secrets of a comfortable flight that only flight attendants know",
+        category: "TRAVEL",
+        image: "https://images.unsplash.com/photo-1519681393784-d120267933ba",
+        content: "Lorem ipsum dolor sit amet consectetur. Non egestas a quisque odio in. Sed sit lacus in nisi proin eu ut. Quis nunc eget aliquam eros at. Nisl convallis ultricies morbi auctor at etiam.",
+        date: "Feb 12, 2024",
+    author: "J. Anderson",
+    avatar: "https://i.pravatar.cc/40",
+    },
+    {
+        id: 4,
+        title: "10 useful life hacks for DIY garage",
+        category: "DIY",
+        image: "https://images.unsplash.com/photo-1519681393784-d120267933ba",
+        content: "Lorem ipsum dolor sit amet consectetur. Non egestas a quisque odio in. Sed sit lacus in nisi proin eu ut. Quis nunc eget aliquam eros at. Nisl convallis ultricies morbi auctor at etiam.",
+        date: "Feb 12, 2024",
+    author: "J. Anderson",
+    avatar: "https://i.pravatar.cc/40",
+    },
+  ];
